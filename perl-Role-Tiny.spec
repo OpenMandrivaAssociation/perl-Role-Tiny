@@ -1,5 +1,5 @@
 %define	upstream_name    Role-Tiny
-%define upstream_version 2.000005
+%define upstream_version 2.000006
 
 Name:		perl-%{upstream_name}
 Version:	%perl_convert_version %{upstream_version}
