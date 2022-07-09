@@ -1,9 +1,9 @@
 %define	upstream_name    Role-Tiny
-%define upstream_version 2.000006
+%define upstream_version 2.002004
 
 Name:		perl-%{upstream_name}
 Version:	%perl_convert_version %{upstream_version}
-Release:	3
+Release:	1
 
 Summary:	Roles for Perl
 License:	Artistic 2.0
