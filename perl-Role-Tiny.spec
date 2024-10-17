@@ -8,7 +8,7 @@ Release:	2
 Summary:	Roles for Perl
 License:	Artistic 2.0
 Group:		Development/Perl
-Url:		http://metacpan.org/pod/Role::Tiny
+Url:		https://metacpan.org/pod/Role::Tiny
 Source0:	http://search.cpan.org/CPAN/authors/id/H/HA/HAARG/%{upstream_name}-%{upstream_version}.tar.gz
 
 BuildRequires:  perl-devel
