@@ -1,7 +1,7 @@
 %define	upstream_name    Role-Tiny
 
 Name:		perl-%{upstream_name}
-Version:	2.002004
+Version:	2.002005
 Release:	1
 
 Summary:	Roles for Perl
