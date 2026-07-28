@@ -2,7 +2,7 @@
 
 Name:		perl-%{upstream_name}
 Version:	2.002005
-Release:	1
+Release:	2
 
 Summary:	Roles for Perl
 License:	Artistic 2.0
@@ -25,7 +25,7 @@ Roles for Perl
 %autosetup -p1 -n %{upstream_name}-%{version}
 
 %build
-perl Makefile.PL installdirs=vendor destdir=%{buildroot}
+perl Makefile.PL INSTALLDIRS=vendor
 %make_build
 
 %install
